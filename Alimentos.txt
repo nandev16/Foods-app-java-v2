@@ -1,0 +1,4 @@
+Natural;pd01;Fresa;32.0;51.5;65.19999694824219;2023-06-28;Fruta
+Procesado;pd02;Batido de fresa;10.5;16.8;24.2;2023-07-20;Leche, Fresas, Azucar, Agua, Vainilla, Canela
+Natural;pd04;Manzana;32.5;12.600000381469727;55.5;2023-07-20;Fruta
+Natural;pd03;Molida;32.0;15.0;5.400000095367432;2023-07-20;Carne

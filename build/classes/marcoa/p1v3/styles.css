@@ -1,0 +1,30 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 19 jul. 2023, 15:08:57
+    Author     : NanDev
+*/
+
+.button-menu {
+    -fx-background-color: #B5ECFE;
+}
+
+.button-menu:hover {
+    -fx-background-color: #5DD1F5;
+}
+.button-form {
+    -fx-background-color: #006382;
+}
+
+.button-form:hover {
+    -fx-background-color: #003343;
+}
+.button-delete {
+    -fx-background-color: #e60e0e;
+}
+
+.button-delete:hover {
+    -fx-background-color: #730202;
+}
