@@ -1,0 +1,21 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "MarcoAP1v3",
+      "request": "launch",
+      "mainClass": "marcoa.p1v3.MarcoAP1v3",
+      "projectName": "MarcoA-P1v3_d2f80c93"
+    }
+  ]
+}
