@@ -24,6 +24,24 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.StackPane;
 
 
+/**
+ * Controlador de la ventana "Add" para agregar nuevos alimentos a la aplicación.
+ * 
+ * Descripción:
+ * Esta clase es el controlador de la ventana "Add" en la que los usuarios pueden agregar nuevos alimentos
+ * a la aplicación. Permite ingresar los datos de un alimento, ya sea "Procesado" o "Natural", y guardarlos
+ * en el archivo "Alimentos.txt".
+ * 
+ * Notas adicionales:
+ * - Se realizan validaciones de datos para evitar errores y se muestran alertas para informar al usuario sobre
+ *   posibles problemas.
+ * - Los métodos para guardar alimentos verifican si el código del alimento ya existe en el archivo "Alimentos.txt"
+ *   antes de agregarlo para evitar duplicados.
+ * - Los alimentos se guardan en formato CSV en el archivo "Alimentos.txt" con campos separados por punto y coma (;).
+ * - Las clases AlimentoProcesado y AlimentoNatural se asumen definidas en el paquete "classes" y contienen atributos
+ *   y métodos relacionados con los alimentos.
+ * - El controlador está vinculado al archivo "add.fxml" para definir la interfaz de la ventana "Add".
+ */
 public class Controller {
     
      // ***** CONSTANTES *****
